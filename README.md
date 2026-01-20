@@ -20,7 +20,7 @@ This project is beginner-friendly and ideal for learning GUI-based Python develo
 
 ## 🖥️ Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot 2026-01-20 102223.png)
 
 > 📌 *Make sure to upload the screenshot image in your GitHub repository with the name `screenshot.png`.*
 
