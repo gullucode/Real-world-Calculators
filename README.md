@@ -20,7 +20,7 @@ This project is beginner-friendly and ideal for learning GUI-based Python develo
 
 ## 🖥️ Screenshot
 
-![Calculator Screenshot]( Screenshot 2026-01-20 102223.png )
+![Calculator Screenshot]( https://github.com/gullucode/Real-world-Calculators/blob/347ff554f977b0ee98b3e4602fb98ccad313f3c2/Screenshot%202026-01-20%20102223.png )
 
 > 📌 *Make sure to upload the screenshot image in your GitHub repository with the name `screenshot.png`.*
 
