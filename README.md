@@ -33,5 +33,4 @@ This project is beginner-friendly and ideal for learning GUI-based Python develo
 
 ---
 
-## 📂 Project Structure
 
